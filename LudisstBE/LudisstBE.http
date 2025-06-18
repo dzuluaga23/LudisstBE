@@ -1,0 +1,6 @@
+@LudisstBE_HostAddress = http://localhost:5230
+
+GET {{LudisstBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
